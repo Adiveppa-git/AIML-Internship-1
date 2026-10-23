@@ -1,0 +1,7 @@
+Operation,Library,Median_Peak_Process_RSS_MB
+filter,pandas,141.421875
+filter,polars,272.40234375
+group,pandas,162.953125
+group,polars,290.359375
+sort,pandas,189.82421875
+sort,polars,339.3046875
